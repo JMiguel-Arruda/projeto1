@@ -1,2 +1,1 @@
-# projeto1
-Gerenciador de tarefas basico
+**PROJETO BASICO DE UM GERENCIADOR DE TAREFAS COM POO E CRUD**
